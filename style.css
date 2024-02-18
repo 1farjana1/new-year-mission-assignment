@@ -148,10 +148,10 @@ body {
     width: 100%;
 }
 
-/* .sixth-part,
-.fifth-part {
-    margin: 100px 100px 100px 0px;
-} */
+.sixth-part {
+    margin: 100px 100px 0px 0px;
+    border: 2px solid blue;
+}
 
 .input-btn-style {
     border: none;
