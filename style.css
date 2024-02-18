@@ -1,0 +1,229 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
+
+}
+
+.banner-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)), url('B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    aspect-ratio: auto;
+    background-size: 100%;
+    border-radius: 20px;
+
+}
+
+.header-part {
+    color: white;
+    text-align: center;
+    height: 513px;
+}
+
+.header {
+    padding-top: 80px;
+}
+
+.font-size {
+    font-size: 32px;
+    font-weight: 100;
+    margin-bottom: -30px;
+}
+
+.color {
+    font-size: 72px;
+}
+
+.align {
+    text-align: center;
+}
+
+.red-color {
+    color: red;
+}
+
+.red {
+    font-size: 80px;
+    margin-bottom: -5px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* gap: 20px; */
+}
+
+.image {
+    width: 70%;
+}
+
+.image-1 {
+    width: 50%;
+}
+
+.welcome-part {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)), url('B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100%;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.middle-part {
+    height: 500px;
+}
+
+.padding {
+    padding: 50px;
+}
+
+.font-size1 {
+    font-size: 40px;
+}
+
+.contact {
+    background-color: rgb(239, 204, 209);
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+
+.button {
+    padding: 5px 10px;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.top {
+    padding-top: 50px;
+}
+
+.image2 {
+    border: 10px solid red;
+    border-radius: 50%;
+    padding: 40px;
+    width: 50%;
+}
+
+.left {
+    display: block;
+    text-align: center;
+
+}
+
+.margin-top {
+    margin-top: 70px;
+}
+
+.size {
+    font-size: 25px;
+    margin: -5px 0px;
+}
+
+.size1 {
+    margin: -5px 0px;
+
+}
+
+.size3 {
+    padding-top: 100px;
+}
+
+.flex1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.image3 {
+    width: 100%;
+}
+
+.sixth-part {
+    margin: 0px 70px;
+    margin-bottom: 100px;
+}
+
+.input-btn-style {
+    border: none;
+    border-radius: 20px 0px 0px 20px;
+    background: #FFF;
+    width: 400px;
+    height: 60px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.seventh-part {
+    background-color: rgb(239, 204, 209);
+    text-align: center;
+    height: 380px;
+    margin: 0px 70px;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.btn-style {
+    border-radius: 0px 20px 20px 0px;
+    background: red;
+    color: #FFF;
+    font-size: 20px;
+    height: 62px;
+    width: 150px;
+    border: none;
+    margin-left: -3px;
+}
+
+
+.background-color {
+    background-color: black;
+}
+
+.gap {
+    padding-left: 5px;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.eight-part {
+    margin: 100px 70px;
+    background-color: black;
+    color: white;
+    height: 300px;
+    padding-top: 50px;
+}
+
+hr {
+    margin: 10px 30px;
+
+}
+
+.icon {
+    margin: 30px;
+}
+
+
+.last-part {
+    margin-top: 20px;
+}
+
+.fifth-part {
+    margin: 60px 70px 40px 70px;
+}
