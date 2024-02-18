@@ -154,6 +154,7 @@ body {
 
 .sixth-part {
     margin: 100px;
+    border: 2px solid blue;
 }
 
 .input-btn-style {
