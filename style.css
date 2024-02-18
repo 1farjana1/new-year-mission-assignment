@@ -15,6 +15,7 @@ body {
     background-size: 100%;
     border-radius: 20px;
     height: 710px;
+    border: 5px solid green;
 
 
 }
@@ -152,8 +153,7 @@ body {
 }
 
 .sixth-part {
-    margin: 0px 70px;
-    margin-bottom: 100px;
+    margin: 100px;
 }
 
 .input-btn-style {
