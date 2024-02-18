@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 20px;
-    height: 710px;
+    height: 510px;
 }
 
 .header-part {
@@ -150,8 +150,10 @@ body {
 
 .sixth-part {
     margin: 100px 70px;
-    border: 2px solid blue;
+}
 
+.alignment {
+    margin: 6px 60px;
 }
 
 .input-btn-style {
