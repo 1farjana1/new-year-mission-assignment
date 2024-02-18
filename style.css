@@ -15,9 +15,6 @@ body {
     background-size: 100%;
     border-radius: 20px;
     height: 710px;
-    border: 5px solid green;
-
-
 }
 
 .header-part {
@@ -57,7 +54,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* gap: 20px; */
 }
 
 .image {
@@ -152,10 +148,10 @@ body {
     width: 100%;
 }
 
-.sixth-part,
+/* .sixth-part,
 .fifth-part {
     margin: 100px 100px 100px 0px;
-}
+} */
 
 .input-btn-style {
     border: none;
