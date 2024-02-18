@@ -228,3 +228,7 @@ hr {
 .fifth-part {
     margin: 60px 70px 40px 70px;
 }
+
+.image-effect:hover {
+    filter: brightness(0.5);
+}
